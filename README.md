@@ -17,3 +17,12 @@ The dataset consists of 8 columns:
 |humidity|relative humidity in %|
 |ph|ph value of the soil|
 |rainfall|rainfall in mm|
+
+## **Procedure**
+- Clean the data and check for missing values.
+- standardize the dataset.
+- Train and Test the model.
+
+## **Result**
+- The crop recommendation system using Gaussian Naïve Bayes achieved an impressive accuracy of 99.45% (0.9945).This high accuracy indicated that the model is highly effective in correctly predicting the most suitable crop based on input parameters like Nitrogen, Phosphorus, Potassium, temperature, humidity, pH, and rainfall. 
+
