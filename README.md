@@ -6,14 +6,14 @@ The Crop Recommendation System is designed to help farmers select the most suita
 ## Database Schema
 The dataset consists of 8 columns:
 
-[data information here](https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset )🔗
+[data information here](https://github.com/MbungaiMichael/Crop-recommendation-system/blob/main/Crop_recommendation.csv)🔗
 
-| File Name | Description|
+| Columns | Description|
 |---|---|
-| categories.csv	| Defines the categories of the products.|
-|cities.csv|	Contains city-level geographic data.|
-|countries.csv|	Stores country-related metadata.|
-|customers.csv |	Contains information about the customers who make purchases.|
-|employees.csv|	Stores details of employees handling sales transactions.|
-|products.csv|	Stores details about the products being sold.|
-|sales.csv	|Contains transactional data for each sale.Steady Customers  |
+|N|ratio of Nitrogen content in soil - kg/ha.|
+|P|ratio of Phosphorous content in soil - kg/ha|
+|K|ratio of Potassium content in soil - kg/ha|
+|temperature|temperature in degree Celsius|
+|humidity|relative humidity in %|
+|ph|ph value of the soil|
+|rainfall|rainfall in mm|
