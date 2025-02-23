@@ -24,5 +24,6 @@ The dataset consists of 8 columns:
 - Train and Test the model.
 
 ## **Result**
-- The crop recommendation system using Gaussian Naïve Bayes achieved an impressive accuracy of 99.45% (0.9945).This high accuracy indicated that the model is highly effective in correctly predicting the most suitable crop based on input parameters like Nitrogen, Phosphorus, Potassium, temperature, humidity, pH, and rainfall. 
+- The crop recommendation system using Gaussian Naïve Bayes achieved an impressive accuracy of 99.45% (0.9945).This high accuracy indicated that the model is highly effective in correctly predicting the most suitable crop based on input parameters like Nitrogen, Phosphorus, Potassium, temperature, humidity, pH, and rainfall. [project here](https://github.com/MbungaiMichael/Crop-recommendation-system/blob/main/Crop%20recommendation%20system.ipynb)🔗
+
 
