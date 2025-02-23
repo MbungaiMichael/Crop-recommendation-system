@@ -1,3 +1,3 @@
-# **Crop Recommendation System **
+# **Crop Recommendation System**
 
 ## **Overview**
